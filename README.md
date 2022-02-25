@@ -8,7 +8,6 @@ This book searching app allows users to create an account and search for books
 
 ## Deployed Link
 
-https://arios10.github.io/book-search/
 
 ## Links
 
