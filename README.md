@@ -2,6 +2,10 @@
 
 This book searching app allows users to create an account and search for books
 
+## Screenshot
+
+![Screenshot](client\public\test.png)
+
 ## Deployed Link
 
 https://arios10.github.io/book-search/
